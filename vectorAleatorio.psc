@@ -17,4 +17,6 @@ Algoritmo vectorAleatorio
 	FinPara
 	Escribir " ";
 	Escribir "Hay " ,numMenores " números menores o iguales que 10";
+	//ACTUALIZACIÓN PARA LA PRACTICA DE ENTRNOS DE DESARROLLO
+	Escribir "Estoy realizando un cambio para la práctica de GIT Y GITHUB";
 FinAlgoritmo 
