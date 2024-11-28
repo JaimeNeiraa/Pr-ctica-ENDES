@@ -10,5 +10,5 @@ Algoritmo CalcularFactorial
 		num=num-1;
 	FinMientras
 		Escribir "El factorial de ",i " es ", resultado;
-	
+	//Esto metiendo este comentario para la práctica de ENDES
 FinAlgoritmo
